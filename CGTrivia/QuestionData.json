@@ -1,0 +1,423 @@
+[
+
+    {
+        "question":"In 1716 the first lighthouse was built in America in Boston, Massachusetts",
+        "answers":["True", "False"],
+        "correctAnswerIndex":0,
+        "feedback": "True! It was constructed on Little Brewster Island."
+    },
+    
+    {
+        "question":"Who was the first African-American female Commanding Officer of a Coast Guard Cutter?",
+        "answers":["LT Carrie Wolfe", "LT Felicia Thomas", "LT Olivia Grant"],
+        "correctAnswerIndex":1,
+        "feedback": "LT F. Thomas took command of CGC Pea Island on 19 June 2009."
+    },
+    
+    {
+        "question":"In 1968, Patricia Nelson was the first woman to retire from the regular Coast Guard with full benefits.",
+        "answers":["True", "False"],
+        "correctAnswerIndex":1,
+        "feedback": "False! It was actually Mary Ashley."  
+    },
+    
+    {
+        "question":"The only Coast Guardsman to receive the Medal of Honor is ________.",
+        "answers":["Russell Waesche", "Lester Holt", "Douglas Munro"],
+        "correctAnswerIndex":2,
+        "feedback": "It is Signalman 1st Class Douglass Munro. I won't tell anyone if you got it wrong!"
+    },
+    
+    {
+        "question":"In 1987, who was the first Coast Guardsmen to become a NASA astronaut?",
+        "answers":[" Capt. Bobby C. Wilks", " CWO Angel L. Martinez", "LCDR Bruce E. Melnick"],
+        "correctAnswerIndex":2,
+        "feedback": "LCDR Melnick - He later made two shuttle flights."
+    },
+    
+    {
+        "question":"USRC Grant was the first cutter to use wireless telegraph in 1903.",
+        "answers":["True", "False"],
+        "correctAnswerIndex":0,
+        "feedback": "True! The cutter Grant was also the first to use radio for tactical purposes."
+    },
+    
+    {
+        "question":"Name one of the first Maritime Enforcement Specialists that was inducted into the new ME rating in December 2008.",
+        "answers":["MECM Michael Connolly", "MECM Ray Donalds", "MECM Steven Lowry"],
+        "correctAnswerIndex":2,
+        "feedback": "MECM S. Lowry - The others were MECM R. Krahn, MECM G. Muise, and MECM Will Allred."
+    },
+    
+    {
+        "question":"The first woman promoted to CWO (F&S) was ________.",
+        "answers":["Joyce Meyers", "Ellen Terrill", "Suzanne Thibodeaux"],
+        "correctAnswerIndex":1,
+        "feedback": "CWO Ellen Terrill in 1987."
+    },
+    
+    {
+        "question":"The first Cuban-American to command a Coast Guard Cutter was LT. Jorge Martinez.",
+        "answers":["True", "False"],
+        "correctAnswerIndex":0,
+        "feedback": "True! LT J. Martinez took command of the CGC Maui (WPB-1304) in 2003."
+    },
+    
+    {
+        "question":"The first active duty African-American woman to be promoted to warrant officer was ________.",
+        "answers":["Patricia Stolle", "Doris Hull", "Keisha Jackson"],
+        "correctAnswerIndex":1,
+        "feedback": "CWO D. Hull was promoted to Chief Warrant Officer in 1995."  
+    },
+    
+    {
+        "question":"Thought to be the first ship constructed by the Service.",
+        "answers":["Stratton", "Virginia", "Massachusetts"],
+        "correctAnswerIndex":2,
+        "feedback": "The cutter Massachusetts was constructed in Newbury."
+    },
+    
+    {
+        "question":"In April 2008 OSC Rick Smith became the first Coast Guardsman to receive the National Operations Security (OPSEC) Award.",
+        "answers":["True", "False"],
+        "correctAnswerIndex":1,
+        "feedback": "False! It was OSC Patrick Hagan."
+    },
+    
+    {
+        "question":"________ became the first woman ISS Warrant Officer. on 01 June 2010.",
+        "answers":["Ronetta G. McNeill", "Jennifer Lowden", "Ramona Evans"],
+        "correctAnswerIndex":0,
+        "feedback": "R. G. McNeill was the first ISS CWO. She was promoted on 01 June 2010."
+    },
+    
+    {
+        "question":"________ became the first female school chief for TRACEN Yorktown on 01 June 2008.",
+        "answers":["Martha E. Utley", "Pamela Jones", "Jennifer Lowden"],
+        "correctAnswerIndex":2,
+        "feedback": "Jennifer Lowden! She also became the first female MKCS on 01 August 2008."
+    },
+    
+    {
+        "question":"This date is recognized as the official birthday of the Coast Guard.",
+        "answers":["28 January 1915", "04 August 1790", "26 February 2003"],
+        "correctAnswerIndex":1,
+        "feedback": "If you don't know this, just go home for the day! #JustKidding"
+    },
+    
+    {
+        "question":"The first active duty woman to be advanced to YNCM was ________.",
+        "answers":["Patricia Stolle", "Doris Hull", "Keisha Jackson"],
+        "correctAnswerIndex":0,
+        "feedback": "Patricia Stolle is the answer! YNCM Pearl Faurie of the USCGR was the first woman to become a Master Chief Petty Officer in the CG in 1967."  
+    },
+    
+    {
+        "question":"________ served as the first Commandant of the USCG.",
+        "answers":["Alexander V. Fraser", "Alexander Hamilton", "Stonewall Jackson"],
+        "correctAnswerIndex":0,
+        "feedback": "Ok, I didn't even know this one! A. V. Fraser was the first COMDT."
+    },
+    
+    {
+        "question":"On 01 April 1916, the first Coast Guardsmen, ________ and ________, reported for flight training at the naval air Station in Pensacola, Florida.",
+        "answers":["Jack Forrester, Michael Green", "Elmer Stone, Charles E. Sugden", "Robert S. Provost, Scott J. McKinley"],
+        "correctAnswerIndex":1,
+        "feedback": "Elmer and Charles! The Coast Guard has been fly for a long time now!"
+    },
+    
+    {
+        "question":"________ was the first female Commanding Officer of the Coast Guard Institute.",
+        "answers":["Patricia Whitecotton", "Theresa Tierney", "Martha Scott"],
+        "correctAnswerIndex":1,
+        "feedback": "Theresa Tierney, August 2004. A few months before my time!"
+    },
+    
+    {
+        "question":"Captain Jeffrey Lee was the first Korean-American to graduate from Coast Guard OCS in 1983.",
+        "answers":["True","False"],
+        "correctAnswerIndex":0,
+        "feedback": "True! CAPT Jeffrey had many first such as the first Korean-American to command an icebreaking tug and the first K.A. to teach at the Leadership Development Center."
+    },
+    
+    {
+        "question":"With the promotion to rear admiral, ________, USCGR became the first flag officer ever appointed in the U.S. Coast Guard Reserve.",
+        "answers":["Mike Wallace", "Kenneth Stevens Harrison", "Angela Covington"],
+        "correctAnswerIndex":1,
+        "feedback": "Admiral Harrison was Chief Counsel of the USCG."
+    },
+    
+    {
+        "question":"The first woman Coast Guard diver was ________ in 1984.",
+        "answers":["Pamela Jones", "Grace Parmalee", "Linda Moroz"],
+        "correctAnswerIndex":2,
+        "feedback": "BM2 L. Moroz - She was assigned to the National Strike Force Dive Team."
+    },
+    
+    {
+        "question":"This cutter was responsible for the first anti-piracy action when it ran a pirate vessel ashore in Chesapeake Bay in 1793.",
+        "answers":["Massachusetts", "Virginia", "Diligence"],
+        "correctAnswerIndex":2,
+        "feedback": "The Diligence! All of the Revenue cutters at that time were charged to suppress piracy."
+    },
+    
+    {
+        "question":"In 1988 ________ became the first African-American female engineer that advanced to E-7.",
+        "answers":["Pamela Autry", "Reese Davis", "Deborah Faust"],
+        "correctAnswerIndex":0,
+        "feedback": "Come on Gina, it was Pam!"
+    },
+    
+    {
+        "question":"Who was the first Chinese-American Coast Guardsman to command a Medium Endurance Cutter when they took command of USCGC Venturous from 1995-1997?",
+        "answers":["Adele Wai", "Bryon Ing", "Timmy Chan"],
+        "correctAnswerIndex":1,
+        "feedback": "Mr. Bryon Ing - He was also the first Chinese-American and CG Liason Officer to the Joint Chiefs of Staff (J7-Doctrine) in 1997."  
+    },
+    
+    {
+        "question":"Coast Guard Auxiliarist ________, a public affairs staff officer with Flotilla 74, 8th CG District, became the first sightless Coast Guard employee to serve on board a cutter.",
+        "answers":["Robert D. Dittman", "Patrick Stewart", "Dan Bailey"],
+        "correctAnswerIndex":0,
+        "feedback": "Mr. Dittman sailed aboard the Dallas on 22 May 2002."
+    },
+    
+    {
+        "question":"On 16 May 2003, LT Greg Duncan became the first African-American Coast Guardsman to successfully complete the scuba diver course.",
+        "answers":["True", "False"],
+        "correctAnswerIndex":0,
+        "feedback": "LT Duncan completed his training at the Navy Dive and Salvage Center in Panama, Fl."
+    },
+    
+    {
+        "question":"On 27 September 1944, ________, became the first African-American to be promoted to the rank of lieutenant in the Coast Guard.",
+        "answers":["Charles Young", "Clarence Samuels", "Darius Rucker"],
+        "correctAnswerIndex":1,
+        "feedback": "Well you know it wasn't Hootie!"
+    },
+    
+    {
+        "question":"The first woman promoted to CWO (ELC) was ________.",
+        "answers":["Anne Viser", "Shae Green", "Lauren Cantatore"],
+        "correctAnswerIndex":2,
+        "feedback": "L. Cantatore in 1989"
+    },
+    
+    {
+        "question":"The Coast Guard's first permanent air station was established at Cape May, New Jersey in the year ________.",
+        "answers":["1926", "1945", "1932"],
+        "correctAnswerIndex":0,
+        "feedback": "The year was 1926 - Emphasis on the word \"permanent\" as the first air station was at Morehead City in North Carolina but it closed shortly afterwards due to lack of funds."
+    },
+    
+    {
+        "question":"In 2010, ________ served as the Federal On-Scene Coordinator for the Deepwater Horizon Spill.",
+        "answers":["Admiral Thomas H. Collins", "Admiral James M. Loy", "Admiral Paul F. Zukunft"],
+        "correctAnswerIndex":2,
+        "feedback": "Admiral Zukunft is the man! He came to my CPOA graduation...true story!"
+    },
+    
+    {
+        "question":"________ became the first OIC of a LEDET.",
+        "answers":["LT Oscar Wilde", "LT Samuel A. Thomas", "LT John T. Broadway"],
+        "correctAnswerIndex":2,
+        "feedback": "LT Broadway took command of Group Cape Hatteras in September 1988."
+    },
+    
+    {
+        "question":"The first woman promoted to CWO (COMMS) was Robin Patton in 1989.",
+        "answers":["True", "False"],
+        "correctAnswerIndex":0,
+        "feedback": "You had a 50/50 shot. If you got it wrong this time, there is hope that you will get it right next time. It's still 50/50 though!"
+    },
+    
+    {
+        "question":"24 April 2004, ________ became the first Coast Guard combat fatality since the Vietnam War.",
+        "answers":["DC3 Nathan Bruckenthal", "BM1 Tom Perkins", "ENS Tony Meeks"],
+        "correctAnswerIndex":0,
+        "feedback": "DC3 N. Bruckenthal - Rest in Peace Shipmate!"
+    },
+    
+    {
+        "question":"On 01 November 2000, ________, became the first African-American woman to advance to Master Chief.",
+        "answers":["Voletta Wallace", "Lisa Harris", "Angela McShan"],
+        "correctAnswerIndex":2,
+        "feedback": "Master Chief McShan has a leadership award named in her honor! That's what's up!"
+    },
+    
+    {
+        "question":"Mary Hughes Holmes was the first African-American female reservist to ________.",
+        "answers":["cross the equator 01/01/90", "serve 30 years in the USCGR", "be advanced to E-7, 01/01/90"],
+        "correctAnswerIndex":2,
+        "feedback": "The first African-American female reservist to be advanced to E-7."
+    },
+    
+    {
+        "question":"The first Pacific Islander from Guam to graduate from the USCG Academy and from any military service academy was ________ in 1968.",
+        "answers":["Juan T. Salas", "Tito Meno", "Lauren Cantatore"],
+        "correctAnswerIndex":0,
+        "feedback": "Juan Salas was also the first member of Asian-Pacific descent to attain the rank of O-6."
+    },
+    
+    {
+        "question":"Lime Rock Lighthouse Keeper Ida Lewis becomes the first woman to be awarded a Gold Lifesaving Medal.",
+        "answers":["True", "False"],
+        "correctAnswerIndex":0,
+        "feedback": "True! Ida Lewis earned the award in 1881."
+    },
+    
+    {
+        "question":"________ was the first commissioned SPAR.",
+        "answers":["Dorothy Stratton", "Aileen Anita Cooke", "Roberta Collins"],
+        "correctAnswerIndex":0,
+        "feedback": "Dorothy Stratton was the pioneer of SPAR program."
+    },
+    
+    {
+        "question":"In 1998, ________ became the first African-American Master Chief Petty Officer of the Coast Guard.",
+        "answers":["Rich Gregory", "Vincent Patton, III", "Mike Green Jr."],
+        "correctAnswerIndex":1,
+        "feedback": "MC Patton will friend you on Facebook and add you on LinkedIn. Very nice guy!"
+    },
+    
+    {
+        "question":"Who was the first active-duty woman to be advanced to chief petty officer ________.",
+        "answers":["PAC Day Boswell, 1982", "PAC Mariska Hargitay, 1977", "SKC Jane Whiteside, 1979"],
+        "correctAnswerIndex":0,
+        "feedback": "What a day...what a day (pun intended)!"
+    },
+    
+    {
+        "question":"The first female company commander at Cape May was: ________, 1978.",
+        "answers":["SKC Lynch", "YNC Holly", "SSC Schoonfield"],
+        "correctAnswerIndex":1,
+        "feedback": "It was the YNC!"
+    },
+    
+    {
+        "question":"The first Coast Guard cutter strictly dedicated to oceanographic study.",
+        "answers":["Evergreen", "Spencer", "Tybee"],
+        "correctAnswerIndex":0,
+        "feedback": "The cutter Evergreen was the first under President Harry Truman's campaign."
+    },
+    
+    {
+        "question":"________ became the first SPAR to be sworn into the regular Coast Guard.",
+        "answers":["Daisy Loveless", "Pearl Faurie", "Alice Jefferson"],
+        "correctAnswerIndex":2,
+        "feedback": "Alice Jefferson in 1973."
+    },
+    
+    {
+        "question":"On 24 June 2005, LTJG ________, earned her wings and became the first African-American female aviator.",
+        "answers":["Liz Daniels", "Jeanine McIntosh-Menze", "Crystal Sparks"],
+        "correctAnswerIndex":1,
+        "feedback": "LTJG McIntosh-Menze was awarded the honor in the great state of Texas!"
+    },
+    
+    {
+        "question":"________ became the first Hispanic-American to make rank of chief petty officer when the Coast Guard advanced him to Chief Machinist's Mate (acting) on 16 February 1944.",
+        "answers":["Justo Gonzalez", "Richard Marin", "Vance Gunter"],
+        "correctAnswerIndex":0,
+        "feedback": "Chief Justo Gonzalez's promotion became permanent on 16 October 1948."
+    },
+    
+    {
+        "question":"The last woman keeper of a lighthouse in the United States was ________.",
+        "answers":["Anna Kendrick", "Fannie M. Salter", "Ida Lewis"],
+        "correctAnswerIndex":1,
+        "feedback": "Fannie M. Salter's retirement ended over 150 years in which women were employed as keepers of lighthouses in the U.S."
+    },
+    
+    {
+        "question":"January 1942, USCGC ________ was struck by a torpedo while on convoy duty and sank off the coast of Iceland.",
+        "answers":["Alexander Hamilton", "Escanaba", "Michael Healy"],
+        "correctAnswerIndex":0,
+        "feedback": "USCGC Hamilton - 26 members perished that day."
+    },
+    
+    {
+        "question":"What year did the first five African-American females enter into the SPARs program?",
+        "answers":["1942", "1944", "1945"],
+        "correctAnswerIndex":2,
+        "feedback": "In 1945, Olivia Hooker, D. Winifred Byrd, Julia Mosley, Yvonne Cumberbatch, and Aileen Cooke joined the Semper Paratus Always Ready (SPAR) program."
+    },
+    
+    {
+        "question":"19 April 1995 the USCGC ________ rescues 578 migrants from an overloaded 75-foot coastal freighter.",
+        "answers":["Dallas", "Bear", "Dauntless"],
+        "correctAnswerIndex":2,
+        "feedback": "USCGC Dauntless was responsible for the largest number of migrants rescued from a single vessel in CG history!"
+    },
+    
+    {
+        "question":"The first African-American admiral was Bobby C. Wilks, 1998.",
+        "answers":["True", "False"],
+        "correctAnswerIndex":1,
+        "feedback": "False - The first African-American Admiral in the CG was Erroll M. Brown. Bobby C. Wilks was the first black Captain."
+    },
+    
+    {
+        "question":"The first Coast Guardsman to \"earn jump wings at Fort Benning, Georgia Airborne School\" was ________.",
+        "answers":["Bo Scarbrough", "Terry Crews", "Jose L. Rodriguez"],
+        "correctAnswerIndex":2,
+        "feedback": "J. L. Rodriguez - The other two dudes are/were football players."
+    },
+    
+    {
+        "question":"Who was the first woman to be advanced to FSCM?",
+        "answers":["Karen Naulty", "Michelle Adams", "Donna Franklin"],
+        "correctAnswerIndex":0,
+        "feedback": "Karean Naulty advanced to FSCM in 1999."
+    },
+    
+    {
+        "question":"12 April 1979 ________ assumed command of the ________.",
+        "answers":["LCDR Rachel Cooks, USCGC Cuyahoga", "LTJG Beverly Kelley, USCGC Cape Newagen", "LT Sarah Smith, USCGC Blackthorn"],
+        "correctAnswerIndex":1,
+        "feedback": "LTJG Kelley with the CGC Cape Newagen became the first woman to command a U.S. warship."
+    },
+    
+    {
+        "question":"On 13 August 1864 Revenue Captain ________ became the first Revenue officer to be killed in action against the enemy.",
+        "answers":["Michael A. Healy", "Scott L. Pinkerton", "Thomas M. Dungan"],
+        "correctAnswerIndex":2,
+        "feedback": "T. M. Dungan - He was the CO of the cutter Reliance and was killed during an attack on Confederate forces."
+    },
+    
+    {
+        "question":"On 11 November 2006, the first Legend class National Security Cutter USCGC ________ was christened.",
+        "answers":["Stratton", "Waesche", "Bertholf"],
+        "correctAnswerIndex":2,
+        "feedback": "The Bertholf! As of October 2017, Base Alameda is the homeport for the ship."
+    },
+    
+    {
+        "question":"________ became the first woman to make Coast Guard Person of the Year for an entire District.",
+        "answers":["Lia deBettencourt", "Vicki Vallencourt", "Angela Simms"],
+        "correctAnswerIndex":0,
+        "feedback": "Lia deBettencourt made it twice (D-5 in 1983 and D-3 in 1985)."
+    },
+    
+    {
+        "question":"The first Asian-American female warrant officer was ________.",
+        "answers":["Connie Swaro, 1987", "Grace Parmalee, 1988", "Kate Upton, 1991"],
+        "correctAnswerIndex":1,
+        "feedback": "As of October 2017, Grace Parmalee is still an employee of the USCG. I received an email from her not too long ago!"
+    },
+    
+    {
+        "question":"Admiral Thad W. Allen assumed the duties as the 25th Commandant of the United States Coast Guard on May 25, 2006.",
+        "answers":["True", "False"],
+        "correctAnswerIndex":1,
+        "feedback": "Admiral Allen was the 23rd Commandant of the USCG."
+    },
+    
+    {
+        "question":"Joseph C. Jenkins is the first officially recognized commissioned African-American officer in the Coast Guard.",
+        "answers":["True", "False"],
+        "correctAnswerIndex":0,
+        "feedback": "True! He graduated in April 1943 and was commissioned as an Ensign for the USCG Reserves."
+    }
+    
+]
