@@ -137,7 +137,7 @@
         "question":"Captain Jeffrey Lee was the first Korean-American to graduate from Coast Guard OCS in 1983.",
         "answers":["True","False"],
         "correctAnswerIndex":0,
-        "feedback": "True! CAPT Jeffrey had many first such as the first Korean-American to command an icebreaking tug and the first K.A. to teach at the Leadership Development Center."
+        "feedback": "True! CAPT Jeffrey had many firsts such as the first Korean-American to command an icebreaking tug and the first K.A. to teach at the Leadership Development Center."
     },
     
     {
@@ -368,14 +368,14 @@
         "question":"Who was the first woman to be advanced to FSCM?",
         "answers":["Karen Naulty", "Michelle Adams", "Donna Franklin"],
         "correctAnswerIndex":0,
-        "feedback": "Karean Naulty advanced to FSCM in 1999."
+        "feedback": "Karen Naulty advanced to FSCM in 1999."
     },
     
     {
-        "question":"12 April 1979 ________ assumed command of the ________.",
-        "answers":["LCDR Rachel Cooks, USCGC Cuyahoga", "LTJG Beverly Kelley, USCGC Cape Newagen", "LT Sarah Smith, USCGC Blackthorn"],
+        "question":"________ became the first woman to command a U.S. warship.",
+        "answers":["LCDR Rachel Cooks", "LTJG Beverly Kelley", "LT Sarah Smith"],
         "correctAnswerIndex":1,
-        "feedback": "LTJG Kelley with the CGC Cape Newagen became the first woman to command a U.S. warship."
+        "feedback": "LTJG B. Kelley - She took command of CGC Cape Newagen on 12 April 1979."
     },
     
     {
@@ -388,7 +388,7 @@
     {
         "question":"On 11 November 2006, the first Legend class National Security Cutter USCGC ________ was christened.",
         "answers":["Stratton", "Waesche", "Bertholf"],
-        "correctAnswerIndex":2,
+        "correctAnswerIndex":0,
         "feedback": "The Bertholf! As of October 2017, Base Alameda is the homeport for the ship."
     },
     

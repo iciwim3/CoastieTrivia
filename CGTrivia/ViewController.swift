@@ -49,6 +49,7 @@ class ViewController: UIViewController {
             // Display current question
             displayCurrentQuestion()
         }
+
     }
 
     override func didReceiveMemoryWarning() {
