@@ -149,7 +149,7 @@
     
     {
         "question":"The first woman Coast Guard diver was ________ in 1984.",
-        "answers":["Pamela Jones", "Grace Parmalee", "Linda Moroz"],
+        "answers":["Pamela Jones", "Jane Leslie", "Linda Moroz"],
         "correctAnswerIndex":2,
         "feedback": "BM2 L. Moroz - She was assigned to the National Strike Force Dive Team."
     },
@@ -388,7 +388,7 @@
     {
         "question":"On 11 November 2006, the first Legend class National Security Cutter USCGC ________ was christened.",
         "answers":["Stratton", "Waesche", "Bertholf"],
-        "correctAnswerIndex":0,
+        "correctAnswerIndex":2,
         "feedback": "The Bertholf! As of October 2017, Base Alameda is the homeport for the ship."
     },
     
@@ -401,9 +401,9 @@
     
     {
         "question":"The first Asian-American female warrant officer was ________.",
-        "answers":["Connie Swaro, 1987", "Grace Parmalee, 1988", "Kate Upton, 1991"],
+        "answers":["Connie Swaro, 1987", "Grace Parmelee, 1988", "Kate Upton, 1991"],
         "correctAnswerIndex":1,
-        "feedback": "As of October 2017, Grace Parmalee is still an employee of the USCG. I received an email from her not too long ago!"
+        "feedback": "As of October 2017, Grace Parmelee is still an employee of the USCG. I received an email from her not too long ago!"
     },
     
     {
