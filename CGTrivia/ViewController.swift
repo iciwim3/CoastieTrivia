@@ -40,15 +40,10 @@ class ViewController: UIViewController {
         
         // Call get questions
         questions = model.getQuestions()
+            
+        currentQuestion = questions[0]
         
-        // Check if there are questions
-        if questions.count > 0 {
-            
-            currentQuestion = questions[1]
-            
-            // Display current question
-            displayCurrentQuestion()
-        }
+        displayCurrentQuestion()
 
     }
 

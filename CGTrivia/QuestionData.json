@@ -214,11 +214,11 @@
         "question":"In 2010, ________ served as the Federal On-Scene Coordinator for the Deepwater Horizon Spill.",
         "answers":["Admiral Thomas H. Collins", "Admiral James M. Loy", "Admiral Paul F. Zukunft"],
         "correctAnswerIndex":2,
-        "feedback": "Admiral Zukunft is the man! He came to my CPOA graduation...true story!"
+        "feedback": "Admiral Zukunft attended my CPOA graduation in July of 2016...true story!"
     },
     
     {
-        "question":"________ became the first OIC of a LEDET.",
+        "question":"________ became the first African-American OIC of a LEDET.",
         "answers":["LT Oscar Wilde", "LT Samuel A. Thomas", "LT John T. Broadway"],
         "correctAnswerIndex":2,
         "feedback": "LT Broadway took command of Group Cape Hatteras in September 1988."
