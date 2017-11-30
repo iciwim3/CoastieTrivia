@@ -289,7 +289,7 @@
     
     {
         "question":"The first female company commander at Cape May was: ________, 1978.",
-        "answers":["SKC Lynch", "YNC Holly", "SSC Schoonfield"],
+        "answers":["SKC Bombay", "YNC Holly", "SSC Schoonfield"],
         "correctAnswerIndex":1,
         "feedback": "It was the YNC!"
     },
